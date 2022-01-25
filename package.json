@@ -1,0 +1,31 @@
+{
+  "name": "a01-sarsimha",
+  "version": "1.0.0",
+  "description": "\"This package contains a very simple web server that takes one argument for port and then serves index.html in the www directory.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-sarsimha.git"
+  },
+  "keywords": [
+    "\"web\"",
+    "\"server\"",
+    "\"port\"",
+    "\"node\"",
+    "\"fs\"",
+    "\"args\"",
+    "\"http\""
+  ],
+  "author": "Sarika Simha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-sarsimha/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-sarsimha#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
